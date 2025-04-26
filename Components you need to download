@@ -1,0 +1,13 @@
+First, we need to download Python itself.
+  https://www.python.org/downloads/
+
+VS Code Extension
+  Python (Microsoft)
+  FastAPI 
+
+What we need to install with "pip"(Python Package Installer)
+  pip install fastapi         # The main FastAPI framework (for building APIs)
+  pip install uvicorn        # ASGI server to run FastAPI applications
+  pip install python-dotenv  # Loads environment variables from .env files
+  pip install email-validator  # Validates email address formats
+  
