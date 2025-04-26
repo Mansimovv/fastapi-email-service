@@ -1,0 +1,7 @@
+First of all, your "main.py" and ".env" must both be in the same directory, otherwise the FastApi code will not be able to read the .env package.
+
+To run the code, type
+uvicorn main:app --reload
+
+After running it in the terminal, you can add "/docs" to the end of the URL code and click on the "try it out" button on the right to execute the code.
+Good luck!
